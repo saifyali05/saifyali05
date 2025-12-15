@@ -1,5 +1,9 @@
-# 💫 About Me:
-🚀 Hi, I'm Saif Ali  
+
+  🚀 Hi, I'm Saif Ali  
+
+
+
+               
 💻 Web Developer in the making | Learning Full Stack & Java  
 🛠️ Working on making products, not just prototypes  
 🌱 Growing skills in DSA, UI design & full-stack development  
@@ -60,8 +64,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=saifyali05
+## 📈 Contribution Activi
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/saifyali05)
+
+
+
 
 
 ---
