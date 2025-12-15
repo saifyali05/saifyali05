@@ -64,7 +64,7 @@
 
 ---
 
-## 📈 Contribution Activi
+## 📈 Contribution Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/saifyali05)
 
