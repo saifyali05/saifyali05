@@ -7,8 +7,8 @@
 💻 Web Developer in the making | Learning Full Stack & Java  
 🛠️ Working on making products, not just prototypes  
 🌱 Growing skills in DSA, UI design & full-stack development  
-📌 On a journey to become a great engineer  
-🤝 Looking forward to contributing to open source  
+📌 On a journey to become a great engineer
+🤝 Looking forward to contributing to open source  and solve real world problems
 
 ---
 
