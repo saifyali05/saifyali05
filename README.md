@@ -9,6 +9,7 @@
 🌱 Growing skills in DSA, UI design & full-stack development  
 📌 On a journey to become a great engineer
 🤝 Looking forward to contributing to open source  and solve real world problems
+  Email:saifali9b@gmail.com
 
 ---
 
@@ -63,15 +64,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-## 📈 Contribution Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/saifyali05)
-
-
-
-
-
 ---
 
 ### ✍️ Random Dev Quote
