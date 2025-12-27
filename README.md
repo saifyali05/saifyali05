@@ -61,7 +61,7 @@
 ## 🏅 Patent Holder  
 
 🎖 **Patent Published — Government of India**  
-I am a **Patent Holder** for an IoT-based **Smart Energy Meter** system,  
+I am a **Patent Holder** for an IoT-based **Smart Energy Meter** system including personlised web dasboard,  
 published in **The Patent Office Journal No. 49/2025 (05/12/2025)**.  
 
 ![Patent](https://img.shields.io/badge/Patent-Published-success?style=for-the-badge)
