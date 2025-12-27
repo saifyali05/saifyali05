@@ -5,6 +5,7 @@
 
                
 💻 Web Developer in the making | Learning Full Stack & Java | Patent published in The Patent Office Journal No. 49/2025 (05/12/2025)
+
 🛠️ Working on making products, not just prototypes  
 🌱 Growing skills in DSA, UI design & full-stack development  
 📌 On a journey to become a great engineer
