@@ -4,7 +4,7 @@
 
 
                
-💻 Web Developer in the making | Learning Full Stack & Java | Patent published in The Patent Office Journal No. 49/2025 (05/12/2025)
+💻 Engineer in the making | Learning Full Stack & Java 
 
 🛠️ Working on making products, not just prototypes  
 🌱 Growing skills in DSA, UI design & full-stack development  
@@ -58,6 +58,16 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ---
+## 🏅 Patent Holder  
+
+🎖 **Patent Published — Government of India**  
+I am a **Patent Holder** for an IoT-based **Smart Energy Meter** system,  
+published in **The Patent Office Journal No. 49/2025 (05/12/2025)**.  
+
+![Patent](https://img.shields.io/badge/Patent-Published-success?style=for-the-badge)
+![Indian%20Patent%20Office](https://img.shields.io/badge/Indian%20Patent%20Office-Govt%20of%20India-blue?style=for-the-badge)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
