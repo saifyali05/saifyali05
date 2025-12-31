@@ -73,7 +73,7 @@ published in **The Patent Office Journal No. 49/2025 (05/12/2025)**.
 ![](https://github-readme-stats.vercel.app/api?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=saifyali05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+![GitHub Metrics](https://raw.githubusercontent.com/saifyali05/github-stats/main/metrics.svg)
 ---
 ---
 
