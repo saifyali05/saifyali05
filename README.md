@@ -2,12 +2,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%7C+Java+Enthusiast;Building+Products%2C+Not+Just+Prototypes;Patent+Holder+%7C+Problem+Solver;Open+Source+Contributor+in+the+Making)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+in+the+making;Building+Products%2C+Not+Just+Prototypes;Patent+Holder+%7C+Problem+Solver;Open+Source+Contributor+in+the+Making)](https://git.io/typing-svg)
 
 ### 💻 Engineer in the Making | Turning Ideas into Reality
 
 [![Email](https://img.shields.io/badge/Email-saifali9b%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifali9b@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
@@ -97,46 +96,27 @@ const saif = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Currently Exploring**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ---
 
 ## 📊 **GitHub Analytics**
 
+
+
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifyali05&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saifyali05&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🎯 **Featured Projects**
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
-
-</div>
-
----
 
 ## 💡 **Random Dev Wisdom**
 
