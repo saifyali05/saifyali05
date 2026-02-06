@@ -1,86 +1,183 @@
+# 🚀 **Saif Ali** - Building the Future, One Commit at a Time
 
-  # Hi, I'm Saif Ali  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%7C+Java+Enthusiast;Building+Products%2C+Not+Just+Prototypes;Patent+Holder+%7C+Problem+Solver;Open+Source+Contributor+in+the+Making)](https://git.io/typing-svg)
 
+### 💻 Engineer in the Making | Turning Ideas into Reality
 
+[![Email](https://img.shields.io/badge/Email-saifali9b%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifali9b@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-               
-💻 Engineer in the making | Learning Full Stack & Java 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge)
 
-🛠️ Working on making products, not just prototypes  
-🌱 Growing skills in DSA, UI design & full-stack development  
-📌 On a journey to become a great engineer
-🤝 Looking forward to contributing to open source  and solve real world problems
-  Email:saifali9b@gmail.com
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saifified_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ali-9b8261328) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifali9b@gmail.com) 
+</div>
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+## 🎯 **About Me**
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+```javascript
+const saif = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    currentFocus: ["Building Scalable Products", "Mastering DSA", "UI/UX Design"],
+    achievements: ["🎖 Patent Holder - Government of India"],
+    mission: "Solving real-world problems through code",
+    funFact: "I turn coffee ☕ into code 💻"
+};
+```
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+## 🔥 **What I'm Up To**
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
----
-## 🏅 Patent Holder  
-
-🎖 **Patent Published — Government of India**  
-I am a **Patent Holder** for an IoT-based **Smart Energy Meter** system including personlised web dasboard,  
-published in **The Patent Office Journal No. 49/2025 (05/12/2025)**.  
-
-![Patent](https://img.shields.io/badge/Patent-Published-success?style=for-the-badge)
-![Indian%20Patent%20Office](https://img.shields.io/badge/Indian%20Patent%20Office-Govt%20of%20India-blue?style=for-the-badge)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=saifyali05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifyali05&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![GitHub Metrics](https://raw.githubusercontent.com/saifyali05/github-stats/main/metrics.svg)
----
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🛠️ **Building** production-ready applications, not just prototypes
+- 📚 **Learning** advanced Data Structures & Algorithms
+- 🎨 **Designing** intuitive user interfaces
+- 🌍 **Preparing** to contribute to Open Source
+- 🚀 **Growing** into a world-class engineer
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=saifyali05&label=Profile%20views&color=0e75b6&style=flat)
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+### 🎖️ **PATENT HOLDER** | Government of India
+
+<table>
+<tr>
+<td width="60%">
+  
+**IoT-Based Smart Energy Meter System**
+  
+📄 Published in *The Patent Office Journal No. 49/2025*  
+📅 Date: 05/12/2025  
+🔬 Innovation: Personalized Web Dashboard for Energy Management  
+
+*Recognized for contributing to sustainable technology solutions*
+
+</td>
+<td width="40%">
+  
+![Patent](https://img.shields.io/badge/PATENT-PUBLISHED-gold?style=for-the-badge&logo=patent&logoColor=white)
+![Innovation](https://img.shields.io/badge/IoT-INNOVATOR-blue?style=for-the-badge&logo=internet-of-things&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 **Tech Arsenal**
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Currently Exploring**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+
+</div>
+
+---
+
+## 💡 **Random Dev Wisdom**
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+**I'm always open to:**
+- 💼 Exciting project collaborations
+- 🌱 Open source contributions
+- 💡 Innovative ideas & discussions
+- 🎓 Learning opportunities
+
+### 📫 **Reach Out:**
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifali9b@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **"Great engineers aren't born, they're built—one line of code at a time."**
+
+**Thanks for stopping by! Let's build something amazing together! 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
